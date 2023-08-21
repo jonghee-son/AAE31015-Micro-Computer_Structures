@@ -1,5 +1,5 @@
 # AAE31015-Micro-Computer Structures
-Keil MDK development environment for (AAE31015)Micro-Computer Structures.
+Keil MDK development environment for (AAE31015) Micro-Computer Structures.
 
 # Requirements
 - Keil MDK 5
